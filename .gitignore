@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Model weights (downloaded on first run)
+*.pt
+!requirements.txt
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Output
+runs/
+*.mp4
+*.avi
+
+# Local test artifacts
+sample.jpg
+sample_out.jpg
+test_snapshot.jpg
