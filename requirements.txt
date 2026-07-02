@@ -1,0 +1,4 @@
+# Core dependencies for camera object detection
+ultralytics>=8.2.0    # YOLO models + inference
+opencv-python>=4.9.0  # camera capture & drawing
+numpy>=1.24.0
